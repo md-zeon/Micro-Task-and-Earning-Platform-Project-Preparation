@@ -198,22 +198,3 @@ sequenceDiagram
 ```
 
 ---
-
-## 🧠 Tips
-
-- Use `jwt.decode()` in frontend to extract user info and role
-- Always secure API routes with middleware like `verifyJWT` + `checkRole`
-- Store JWT in `localStorage` or `httpOnly` cookies (recommended)
-- Add loading and error states for all async actions
-
----
-
-## 🧪 Tools Recommended
-
-- [https://mermaid.live](https://mermaid.live) – for testing Mermaid diagrams
-- [Draw.io](https://draw.io) – for manual visual diagrams
-- [PlantUML](https://plantuml.com/) – for UML-based diagrams
-
----
-
-Happy Coding! 🚀
